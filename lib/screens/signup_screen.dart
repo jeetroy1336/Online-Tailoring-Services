@@ -255,3 +255,4 @@ class _BeautifulSignupScreenState extends State<BeautifulSignupScreen> {
     );
   }
 }
+
