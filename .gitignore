@@ -1,0 +1,25 @@
+# Generated files
+/build/
+/android/build/
+/ios/build/
+
+/.dart_tool/
+/.idea/
+/.metadata
+/.packages
+
+# Lockfiles
+*.lock
+
+# Log files
+*.log
+
+# Mobile-specific
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
